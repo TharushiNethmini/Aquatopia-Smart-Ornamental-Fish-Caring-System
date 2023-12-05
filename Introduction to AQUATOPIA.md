@@ -1,7 +1,7 @@
 # 🐠 SMART ORNAMENTAL FISH CARING SYSTEM FOR AQUATIC INDUSTRY 
 Thriving sector involving breeding, trade, and keeping fish for decorative purposes; challenges include declining productivity, disease identification, and forecasting, addressed using a Machine Learning technique; proposed system offers remedies through an intelligent agent and a buyer-seller integration platform; Frontend developed in JavaScript, Backend implemented with Python.
 
-<h3 style="color:#8cff1a;" >🧬 Fish Verity Identification</h3>
+<h3>🧬 Fish Verity Identification</h3>
 <p>The application features an image-based section enabling users to identify fish through a CNN algorithm capable of recognizing types such as "Angelfish," "Clownfish," and "Gurami." The model, developed using InceptionV3, undergoes a comprehensive process, including dataset preparation, data augmentation, fine-tuning, and training with the Adam optimizer. The training-validation split is set at 75% and 25%, respectively, with images standardized to a size of 500 x 500 pixels. Subsequently, the model is evaluated to measure its performance.</p>
 
 <h3>🩺 Disease Identification</h3>
