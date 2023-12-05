@@ -11,4 +11,4 @@ In the dedicated section of the Aquatopia mobile app, users employ a InceptionV3
 Users navigate the app, answer symptom-related questions; data sent to the Fish Treatment web server, processed by a pre-trained LSTM model for treatment prediction; initial dataset includes 200 records with symptoms, diseases, and treatments
 
 <h3>📝 Best Seller Recommendation System</h3>
-Users access an aquarium ornament section, create orders; a Q learning algorithm filters best sellers based on product quality, delivery, and communication; the recommendation system employs reinforcement learning with a neural network, training an agent on user reviews for optimal suggestions.
+<p>Users access an aquarium ornament section, create orders; a Q learning algorithm filters best sellers based on product quality, delivery, and communication; the recommendation system employs reinforcement learning with a neural network, training an agent on user reviews for optimal suggestions.</p>
